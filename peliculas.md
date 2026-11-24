@@ -1,4 +1,4 @@
-PELICULAS Y SERIES FAVORITAS 
+PELICULAS QUE RECOMIENDO
 -COBRA KAI (SERIE)
 *• etoma la rivalidad clásica de Karate Kid décadas después, mostrando la historia desde la perspectiva de Johnny Lawrence y Daniel LaRusso. Combina nostalgia ochentera, artes marciales y drama juvenil con un toque de humor muy entretenido.
 -¿YDONDE ESTAN LAS RUBIAS?
