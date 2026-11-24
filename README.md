@@ -7,3 +7,7 @@ Es una linea de desarrollo independiente que permite hacer cambios o arreglar er
 
 ## ¿Qué es un conflicto (*merge conflict*)?
 Ocurre cuando dos ramas modifican exactamente la misma línea de un archivo de forma distinta y Git no puede decidir automáticamente cuál versión conservar. Para resolverlo, se elige manualmente qué contenido dejar, se borran las marcas de conflicto y se confirma con un nuevo commit.
+## Diferencia entre git revert y git reset
+
+* git revert:Es mas seguro ya que deshace un commit en especifico sin afectar lo demas
+* git reset:Mueves el puntero hacia atras y elimina todo lo que estaba despues de ese puntero
